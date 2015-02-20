@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Corey/AndroidStudioProjects/PoemLens/app/libs/retrofit-1.8.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="/Users/Corey/AndroidStudioProjects/PoemLens/app/build/intermediates/pre-dexed/debug/retrofit-1.8.0-55239482a35ca7be86c42e47d4451f2acce99e7d.jar" />
+    </item>
+    <item
+        jar="/Users/Corey/AndroidStudioProjects/PoemLens/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Corey/AndroidStudioProjects/PoemLens/app/build/intermediates/pre-dexed/debug/classes-3abe7f8256b8905768bb72870bef4acb98e3d041.jar" />
+    </item>
+    <item
+        jar="/Users/Corey/AndroidStudioProjects/PoemLens/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Corey/AndroidStudioProjects/PoemLens/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-819b8c7c1c77619ad5836ee048adca6c4dded8c0.jar" />
+    </item>
+    <item
+        jar="/Users/Corey/AndroidStudioProjects/PoemLens/app/libs/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/Corey/AndroidStudioProjects/PoemLens/app/build/intermediates/pre-dexed/debug/gson-2.3.1-765586b790b91d0b7d3fea773331e14f7c3d4462.jar" />
+    </item>
+    <item
+        jar="/Users/Corey/AndroidStudioProjects/PoemLens/app/libs/otto-1.3.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7941cd2c2c8ec006800d75c35f8a9dacf892ab93">
+        <dex dex="/Users/Corey/AndroidStudioProjects/PoemLens/app/build/intermediates/pre-dexed/debug/otto-1.3.5-a6a3d14231aeaa31e063097b3bbf0fc07a830e49.jar" />
+    </item>
+    <item
+        jar="/Users/Corey/Android_SDK/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Corey/AndroidStudioProjects/PoemLens/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-dffe2d881d34d55907aeced4b39fe2919dbe07f5.jar" />
+    </item>
+    <item
+        jar="/Users/Corey/AndroidStudioProjects/PoemLens/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Corey/AndroidStudioProjects/PoemLens/app/build/intermediates/pre-dexed/debug/classes-b72bb3b3c0cbc359b0472733810a8e67aa913fc2.jar" />
+    </item>
+
+</items>
